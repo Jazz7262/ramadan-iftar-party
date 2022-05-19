@@ -19,9 +19,7 @@ function Navbar() {
                     data-aos-duration="1500"
                     href="#header"
                 >
-                    <h1>
-                        <span className="num">3</span> Shabi Shabeena
-                    </h1>
+                    <h1>Ramadan Ifatr Party</h1>
                 </a>
                 <button
                     id="ham-btn"
@@ -50,11 +48,6 @@ function Navbar() {
                                 Slide
                             </a>
                         </li>
-                        {/* <li className="nav-item">
-                            <a className="nav-link" onClick={handleClick} href="#guest-ref">
-                                Guest
-                            </a>
-                        </li> */}
                         <li className="nav-item">
                             <a
                                 className="nav-link"
